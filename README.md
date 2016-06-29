@@ -1,0 +1,1 @@
+# mapcrafter-conf-generator
